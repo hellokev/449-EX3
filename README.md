@@ -1,7 +1,7 @@
 
 **1. Clone the repository using the following command:**
    ```
-   git clone https://github.com/webdevlex/449-Project-1.git
+   https://github.com/hellokev/449-EX3.git
    ```
 
 **2. Open the terminal in the /Api folder:**
